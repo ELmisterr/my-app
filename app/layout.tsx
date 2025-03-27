@@ -20,7 +20,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Hydratech",
-  description: "Projecte 3r ESO",
+  
 };
 
 export default function RootLayout({
@@ -47,20 +47,20 @@ export default function RootLayout({
             <DrawerContent>
               <DrawerHeader>
                 <DrawerTitle>
-                  Aquest es un projecte de mates de 3r ESO
+                 
                 </DrawerTitle>
                 <DrawerDescription>
                   <p>
-                    <b>Desenvolupament de la web: </b>Simón Rapanelli
+
                   </p>
                   <p>
-                    <b>Disseny Web:</b> Lucas Pizarro, Luis Naranjo
+                    <b>Disseny Web:</b>Luis Naranjo
                   </p>
                   <p>
                     <b>Disseny logo i marketing:</b> Dusan Martin
                   </p>
                   <p>
-                    <b>Excel: </b>Simón Rapanelli, Dusan Martin, Adrian Rull
+                    
                   </p>
                 </DrawerDescription>
               </DrawerHeader>
